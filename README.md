@@ -1,11 +1,5 @@
-# Netflix_Sample_Dataset
-Analysis of the Netflix's sample dataset of their content library
+*Bashan Gumm DA/BIA Portfolio* 
 
-Summary: This dataset provides insights into Netflix's library, including information on titles, their types (Movies or TV Shows), genres, release years, durations, and countries of origin.
-By analyzing the data, we uncover trends in content production, genre popularity, and geographic diversity.
+This repository showcases my technical skills, problem-solving abilities, and passion for transforming data into actionable insights. Through real-world projects and analyses, I aim to demonstrate my proficiency in tools like SQL, Tableau, Power BI, and Excel, alongside a strong data visualization, cleaning, and storytelling foundation.
 
-Dataset Source: https://www.kaggle.com/datasets/zafarali27/netflix-movies-and-tv-shows
-
-Analysis Workbook: https://docs.google.com/spreadsheets/d/1yRLP9uWwPmA9hmwW4uYxH92hrzf57kvQCkiCORAz8jc/edit?usp=sharing
-
-Slide Deck: 
+This portfolio highlights my ability to analyze complex datasets, deliver insights that drive strategic decisions, and communicate results effectively. My work spans various industries and use cases, reflecting versatility and adaptability in solving business challenges.
